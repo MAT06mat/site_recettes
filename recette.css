@@ -82,8 +82,8 @@ table.infos th {
 img.info {
     display: block;
     object-fit: cover;
-    max-height: 600px;
-    min-height: 400px;
+    max-height: 400px;
+    min-height: 200px;
     background-color: gray;
 }
 
